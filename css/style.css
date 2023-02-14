@@ -1,0 +1,77 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+* a
+{
+    text-decoration: none;
+    transform: translateY(-15px);
+    transition: .4s;
+}
+.logo
+{
+    width: 90%;
+    margin: 0 auto;
+    font-size: 3rem;
+    font-weight:bolder;
+}
+header .logo
+{
+    position: relative;
+    color:wheat;
+}
+
+li
+{
+    list-style: none;
+}
+ul
+{
+    justify-content: space-between;
+    padding: ;
+    display: flex;
+    align-items: center;
+}
+ul li a
+{
+    font-weight: bold;
+    padding: 0 130px;
+    text-decoration: none;
+    color: wheat;
+}
+body
+        {
+            background-color: grey;
+        }
+        h1
+        {
+            font-size: 48px;
+            color:pink;
+    
+        }
+        img
+        {
+            background-color: grey;
+        }
+        .mushroom
+        {
+            background-color: gray;
+        }
+        .skull
+        {
+            background-color: grey;
+        }
+        .circular
+        {
+            border-radius: 100%;
+        }
+        #heading
+        {
+            color: pink;
+            font-size: 34px;
+        }
+
+    
